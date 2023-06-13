@@ -1,0 +1,50 @@
+*{
+    font-family: sans-serif;
+}
+
+body {
+    background: url(sweettexture.jpg);
+   /* background: radial-gradient(circle, black, white);*/
+    background-size: cover;
+    background-repeat:no-repeat;
+  }
+
+.row{
+    margin: 120px auto 125px auto;
+    max-width: 800px;
+    
+    
+    
+}
+#signup{
+    background-color: aliceblue;
+    border-radius: 10px;
+    
+   
+}
+
+
+#login{
+   background: transparent;
+   border-radius: 10px;
+  
+}
+.btn{
+    margin: 10px !important;
+}
+.title{
+    background-color:#939db4;
+    color: blue;
+    height:auto;
+    padding:5px;
+    margin-bottom:10px;
+}
+
+.footer{
+    position: sticky;
+    background-color: #939db4;
+    color:#fff;
+    text-align: center;
+    padding:27px;
+    
+}

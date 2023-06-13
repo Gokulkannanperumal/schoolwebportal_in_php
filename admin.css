@@ -1,0 +1,50 @@
+*{
+    font-family: sans-serif;
+}
+
+
+body {
+    background: radial-gradient(black, white);
+    background-size: cover;
+    background-repeat:no-repeat;
+   
+  }
+
+.slist{
+  
+    height:auto;
+    width: 100%;
+}
+.slist ul{
+    margin:10px 0;
+   
+    padding-left: 10px;
+}
+.slist ul li{
+    margin: 30px 0;
+    padding:10px;
+    list-style:none;
+    background-color: blue;
+    text-align: center;
+    
+}
+.slist ul li a{
+    color:white;
+    text-decoration: none;
+}
+.slist ul li:hover{
+    background-color:brown;
+}
+.content{
+    background-color: white;
+   margin:10px;
+   border-radius:5px;
+   padding: 0;
+}
+.title{
+    background-color: #fff;
+    color: blue;
+    height: auto;
+    padding:10px;
+    margin-bottom:10px;
+}

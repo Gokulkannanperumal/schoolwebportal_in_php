@@ -78,7 +78,7 @@ $displaystaff=$conn->query("select * from staff_details");
                         <th>USERNAME</th>
                         <th>PASSWORD</th>
                         <th>Email</th>
-                        <th>REGTIME</th>
+                        <th>REGISTERTIME</th>
                         <th>USERTYPE</th>
                     </tr>
                     <?php
